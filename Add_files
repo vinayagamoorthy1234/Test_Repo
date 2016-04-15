@@ -2,5 +2,5 @@
 <?php 
   $i=3;
   $j=4;
-  echo $i+$j;
+  echo $i+$j ;
 ?>
