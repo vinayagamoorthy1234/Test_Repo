@@ -1,6 +1,4 @@
 
 <?php 
-  $i=3;
-  $j=4;
-  echo $i+$j;
+echo "addition can be done in any how";
 ?>
